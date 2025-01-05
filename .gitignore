@@ -1,0 +1,78 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Build directories
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Parcel-bundler cache
+.cache/
+
+# Public folder artifacts
+*.html
+/static
+
+# Coverage directory used by testing tools
+coverage/
+
+# Temporary files and folders
+*.tmp
+*.temp
+*.swp
+
+# IDE or editor directories and settings
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.bak
+
+# TypeScript
+*.tsbuildinfo
+
+# Yarn and npm artifacts
+.yarn/
+.yarnrc.yml
+package-lock.json
+yarn.lock
+
+# Testing
+jest-html-reporters/
+jest.cache/
+jest-coverage/
+
+# Mac system files
+.DS_Store
+
+# Optional npm cache directory
+.npm/
+
+# Lint cache
+.eslintcache
+.stylelintcache
+
+# Firebase cache
+.firebaserc
+
+# Miscellaneous
+*.log
+*.bak
+Thumbs.db
+*.orig
