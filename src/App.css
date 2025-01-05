@@ -1,11 +1,8 @@
-.wetherBg{
-  background: url("https://www.accuweather.com/images/hero/4/1440x450.jpg");
-  height: 50vh;
+.app-background {
+  background-image: url('https://images.pexels.com/photos/1431822/pexels-photo-1431822.jpeg?cs=srgb&dl=pexels-brett-sayles-1431822.jpg&fm=jpg');
+  background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: center;
 }
 .heading{
   color:white;
