@@ -17,6 +17,13 @@ A responsive weather application built with React and Tailwind CSS. This app all
 https://weather-web-five-theta.vercel.app/
 ```
 
+## Project Technologies
+
+- **Frontend**:  
+  - React.js
+  - CSS
+ 
+
 ## Getting Started
 
 ### Prerequisites
