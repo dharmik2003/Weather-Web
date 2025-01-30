@@ -12,6 +12,11 @@ A responsive weather application built with React and Tailwind CSS. This app all
 - Responsive design with a dynamic background image based on the weather.
 
 
+### Demo URL
+```bash
+https://weather-web-five-theta.vercel.app/
+```
+
 ## Getting Started
 
 ### Prerequisites
